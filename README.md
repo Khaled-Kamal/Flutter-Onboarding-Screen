@@ -19,9 +19,8 @@ yaml
 
 dependencies:
   introduction_screen: ^3.0.2
-## 📌 video
-<!-- Uploading "2025-02-08 17-40-15.mp4"... -->
-
+## 📌 Screens
+![Image](https://github.com/user-attachments/assets/9937b959-eee0-4438-8f66-8d1f21e18c9d)
   
 
 
