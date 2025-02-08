@@ -11,7 +11,7 @@ An Onboarding Screen in Flutter is the first set of screens that a user sees whe
 * Guide New Users – Help them understand the app’s functionality.
 * Encourage Action – Direct them to sign up or log in.
 
-#📌 Steps to Create an Onboarding Screen in Flutter
+## 📌 Steps to Create an Onboarding Screen in Flutter
 1️⃣ Add Dependencies (Optional)
 You can create an onboarding screen from scratch, but if you prefer a package, you can use introduction_screen. Add it to your pubspec.yaml:
 
