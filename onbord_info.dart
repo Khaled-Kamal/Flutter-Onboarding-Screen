@@ -9,3 +9,4 @@ class onBoardingInfo {
     required this.Image,
   });
 }
+//
