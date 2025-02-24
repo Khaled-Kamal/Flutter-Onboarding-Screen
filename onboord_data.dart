@@ -1,6 +1,6 @@
 // ignore: depend_on_referenced_packages
 import 'package:teeest/components/onbord_info.dart';
-
+//
 class onBoardingData {
   List<onBoardingInfo> items = [
     onBoardingInfo(
