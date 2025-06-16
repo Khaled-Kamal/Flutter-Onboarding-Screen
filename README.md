@@ -5,8 +5,7 @@
 ## Description
 An Onboarding Screen in Flutter is the first set of screens that a user sees when they open an app for the first time. It helps introduce the app’s features, guide users, and encourage them to take action, like signing up or starting a trial..
 
-✅ Why Use Onboarding Screens?
-* Introduce Key Features – Show users what your app offers.
+✅ Why Use Onboarding Screens?* Introduce Key Features – Show users what your app offers.
 * Improve User Engagement – A good first impression keeps users interested.
 * Guide New Users – Help them understand the app’s functionality.
 * Encourage Action – Direct them to sign up or log in..
@@ -16,8 +15,7 @@ You can create an onboarding screen from scratch, but if you prefer a package, y
 
 yaml
 
-dependencies:
-  introduction_screen: ^3.0.2
+dependencies:  introduction_screen: ^3.0.2
 ## 📌 Screens
 ![Image](https://github.com/user-attachments/assets/9937b959-eee0-4438-8f66-8d1f21e18c9d)
   
